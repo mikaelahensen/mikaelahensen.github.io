@@ -45,29 +45,29 @@
 
  a {
     cursor: pointer;
-    color: #1abc9c;
+    color: #3c928a;
     text-decoration: none;
  }
 
  a:hover {
     text-decoration:none;
-    color: #1abc9c;
+    color: #3c928a;
     opacity: 0.9;
  }
 
  hr {
-    border-top: 5px solid #1abc9c;
+    border-top: 5px solid #3c928a;
     width: 80px;
     padding-bottom: 20px;
  }
 
 
  .colour-splash {
-    color: #1abc9c;
+    color: #3c928a;
  }
 
  .section-primary span {
-    color: #1abc9c;
+    color: #3c928a;
     font-weight: bolder;
     opacity: 1;
  }
@@ -83,7 +83,7 @@
  * =================================================================== */
 
  .section-image {
- 	background: #151515 url(https://images.unsplash.com/photo-1489364929346-a1d324ff812b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2eef26c094e9a16dca10727c9b139868&auto=format&fit=crop&w=2100&q=80,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
+ 	background: #151515 url(../images/intro.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -124,7 +124,7 @@
 }
 
 .intro h5 {
-    color: #1abc9c;
+    color: #3c928a;
     font-size: 2.3rem;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -211,11 +211,11 @@ section {
 }
 
 .section-primary {
-    border: #1abc9c;
+    border: #3c928a;
 }
 
 .section-colour {
-    background-color: #1abc9c;
+    background-color: #3c928a;
     color: #fff;
 }
 
@@ -247,8 +247,9 @@ section {
 }
 
 #skills {
-    background: #151515 url(https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7b2a0b01d0e292a6569901818e4fafd9&auto=format&fit=crop&w=1390&q=80) no-repeat center center;
-    height: auto;
+    background: #151515 url(https://images.unsplash.com/photo-1487540765093-e5e1501d2c39?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fcf9fee0878ca6fdfbf54c14a6848035&auto=format&fit=crop&w=1951&q=80) no-repeat center center;
+    height:100%;
+    width: 100%;
 }
 
 
@@ -384,11 +385,6 @@ footer p {
         padding-bottom: 100px;
     }
 
-    #skills {
-        background: #151515 url(https://images.unsplash.com/photo-1456983933114-c22026990f4b?dpr=2&auto=format&crop=entropy&fit=crop&w=1280&h=720&q=80) no-repeat center center;
-        background-position: top center;
-
-    }
 }
 
 @media (max-width: 991px) {
