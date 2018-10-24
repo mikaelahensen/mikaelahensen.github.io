@@ -224,8 +224,8 @@ section {
     border-top: 5px solid #fff;
 }
 
-.list-item {
-    font-size: medium
+.la {
+    text-align: left;
 }
 
 
