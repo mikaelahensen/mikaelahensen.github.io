@@ -244,6 +244,11 @@ section {
     width: 100%;
 }
 
+#competencies {
+    background: #151515 url(../images/intro.jpg) no-repeat center center;
+    height:100%;
+    width: 100%;
+}
 
 /* 05. Footer
  * =================================================================== */
