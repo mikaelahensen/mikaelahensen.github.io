@@ -32,6 +32,9 @@
     font-weight: 600;
  }
 
+ p {
+     font-weight: bold;
+ }
  a {
     cursor: pointer;
     color: #3c928a;
@@ -65,13 +68,6 @@ li {
     text-align: left;
     font-size: 20px;
 }
-
-.thick {
-    font-weight: bold;
-}
-
-
-
 
 /* 02. Intro
  * =================================================================== */
